@@ -193,7 +193,7 @@ Findings were documented from the Power BI visualization using Excel to provide 
 
 **2. What are the top 5 performing product sub-category in terms of profit?**
 
-![Top 5 Performing Product Sub-Category by Profit](INSERT_SUBCATEGORY_PROFIT_IMAGE_HERE)
+![Top 5 Performing Product Sub-Category by Profit](https://github.com/Emma-the-Analyst/Superstore-Sales-Profitability-Analysis/blob/main/IMAGES/EXCEL%20SALES%20BY%20TOP%205%20SUB-CATEGORY.png?raw=true)
 
 **Discovery:**
 - The top 5 sub-categories generated a combined profit of $206,350, accounting for 72.04% of total profit across all 17 sub-categories.
