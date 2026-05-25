@@ -1,4 +1,4 @@
-# <h1 align="center">Superstore Sales & Profitability Analysis</h1>
+# Superstore Sales & Profitability Analysis
 
 ## Table of Contents
 
