@@ -157,7 +157,7 @@ Quantity Outlier
 ![Quantity Outlier](https://github.com/Emma-the-Analyst/Superstore-Sales-Profitability-Analysis/blob/main/IMAGES/quantity%20outlier.png?raw=true)
 
 Profit Outlier
-![Profit Outlier](INSERT_PROFIT_OUTLIER_IMAGE_HERE)
+![Profit Outlier](https://github.com/Emma-the-Analyst/Superstore-Sales-Profitability-Analysis/blob/main/IMAGES/profit%20outlier.png?raw=true)
 
 
 **Data type check**
