@@ -1,7 +1,5 @@
 # Superstore Sales & Profitability Analysis
 
-![Dashboard Preview](https://github.com/Emma-the-Analyst/Superstore-Sales-Profitability-Analysis/blob/main/IMAGES/DASHBOARD.png)
-
 ## Table of Contents
 
 - [1. Project Abstract](#1-project-abstract)
