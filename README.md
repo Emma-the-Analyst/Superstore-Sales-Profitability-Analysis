@@ -231,7 +231,7 @@ The documented findings from the visualization were verified using Python. All t
 
 ![Validation - Top 5 Sub-Category Profit](INSERT_VALIDATION_SUBCATEGORY_IMAGE_HERE) 
 
-![Validation - Top Region by sales ](INSERT VALIDATION IMAGE FOR THIS HERE)
+![Validation - Top Region by sales](INSERT_VALIDATION_IMAGE_FOR_THIS_HERE)
 
 ![Validation - Customer Segment Sales](INSERT_VALIDATION_SEGMENT_IMAGE_HERE)
 
