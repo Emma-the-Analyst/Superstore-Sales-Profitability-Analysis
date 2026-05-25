@@ -150,14 +150,15 @@ The duplicate check revealed that there are zero duplicate rows in the dataset. 
 
 Box and whisker plots were used to detect outliers in Sales, Quantity, and Profit. All outliers were left as is without removal or capping to maintain accurate aggregate calculations, including total sales revenue, total units sold, and total profit.
 
-![Sales Outlier](https://github.com/Emma-the-Analyst/Superstore-Sales-Profitability-Analysis/blob/main/IMAGES/sales%20outlier.png?raw=true)
 Sales Outlier
+![Sales Outlier](https://github.com/Emma-the-Analyst/Superstore-Sales-Profitability-Analysis/blob/main/IMAGES/sales%20outlier.png?raw=true)
 
-![Quantity Outlier](INSERT_QUANTITY_OUTLIER_IMAGE_HERE)
 Quantity Outlier
+![Quantity Outlier](INSERT_QUANTITY_OUTLIER_IMAGE_HERE)
 
-![Profit Outlier](INSERT_PROFIT_OUTLIER_IMAGE_HERE)
 Profit Outlier
+![Profit Outlier](INSERT_PROFIT_OUTLIER_IMAGE_HERE)
+
 
 **Data type check**
 
