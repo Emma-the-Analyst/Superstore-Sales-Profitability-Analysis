@@ -233,7 +233,7 @@ The documented findings from the visualization were verified using Python. All t
 
 ![Validation - Category Sales](https://github.com/Emma-the-Analyst/Superstore-Sales-Profitability-Analysis/blob/main/IMAGES/validating%20profit%20by%20category.png?raw=true)
 
-![Validation - Top 5 Sub-Category Profit](INSERT_VALIDATION_SUBCATEGORY_IMAGE_HERE) 
+![Validation - Top 5 Sub-Category Profit](https://github.com/Emma-the-Analyst/Superstore-Sales-Profitability-Analysis/blob/main/IMAGES/validating%20top%205%20sales%20by%20sub%20category.png?raw=true) 
 
 ![Validation - Top Region by sales](INSERT_VALIDATION_IMAGE_FOR_THIS_HERE)
 
