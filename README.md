@@ -230,6 +230,7 @@ Findings were documented from the Power BI visualization using Excel to provide 
 #### Findings Validation
 
 The documented findings from the visualization were verified using Python. All the results tallied with the documented findings from the visualization.
+
 Sales by Category
 ![Validation - Category Sales](https://github.com/Emma-the-Analyst/Superstore-Sales-Profitability-Analysis/blob/main/IMAGES/validating%20profit%20by%20category.png?raw=true)
 
@@ -240,7 +241,7 @@ Sales by Region
 ![Validation - Top Region by sales](https://github.com/Emma-the-Analyst/Superstore-Sales-Profitability-Analysis/blob/main/IMAGES/validating%20sales%20by%20region.png?raw=true)
 
 Sales by Segment
-![Validation - Customer Segment Sales](INSERT_VALIDATION_SEGMENT_IMAGE_HERE)
+![Validation - Customer Segment Sales](https://github.com/Emma-the-Analyst/Superstore-Sales-Profitability-Analysis/blob/main/IMAGES/validating%20sales%20by%20segment.png?raw=true)
 
 ### 5. Recommendations
 
