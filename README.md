@@ -218,7 +218,7 @@ Findings were documented from the Power BI visualization using Excel to provide 
 
 **4. What is the top customer segment in terms of sales?**
 
-![Top Customer Segment by Sales](INSERT_SEGMENT_SALES_IMAGE_HERE)
+![Top Customer Segment by Sales](https://github.com/Emma-the-Analyst/Superstore-Sales-Profitability-Analysis/blob/main/IMAGES/EXCEL%20SALES%20BY%20SEGMENT.png?raw=true)
 
 **Discovery:**
 - Total sales across all three segments reached approximately $2.30 million.
