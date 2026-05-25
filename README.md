@@ -84,16 +84,16 @@ Dataset was sourced from Kaggle.
 Link to dataset: [https://www.kaggle.com/datasets/vivek468/superstore-dataset-final](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 #### Data Dictionary
-
+The data dictionary below shows the selected variables and their variable type considered for this project and taken from the data.
 | Variable | Variable Type | Description |
 |----------|--------------|-------------|
 | Category | Nominal | The high-level product group |
 | Sub-Category | Nominal | The specific product type within a category |
 | Region | Nominal | The geographic area where the sale occurred |
 | Segment | Nominal | The customer type |
-| Sales | Interval | The total revenue generated from the sale, measured in dollars |
-| Quantity | Interval (Ratio) | The number of units sold |
-| Profit | Interval | The earnings after costs, measured in dollars |
+| Sales | Numerical (Continuous) | The total revenue generated from the sale, measured in dollars |
+| Quantity | Numerical (Discrete) | The number of units sold |
+| Profit | Numerical (Continuous) | The earnings after costs, measured in dollars |
 
 #### Tools Used
 
