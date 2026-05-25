@@ -132,7 +132,7 @@ The dataset was loaded into a pandas dataframe. The first five rows was displaye
 
 This involved reviewing the dimensions of the dataset to understand its size and structure.
 
-![Rows and Columns Check](INSERT_ROWS_COLUMNS_IMAGE_HERE)
+![Rows and Columns Check](https://github.com/Emma-the-Analyst/Superstore-Sales-Profitability-Analysis/blob/main/IMAGES/ROWS%20AND%20COLUMNS%20CHECK.png?raw=true)
 
 **Checking for missing values**
 
