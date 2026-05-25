@@ -265,17 +265,4 @@ One relevant area for future research is to analyze the impact of discounts on p
 
 The project successfully cleaned, explored, and validated the Superstore dataset, confirming no missing values or duplicates. Interactive Power BI dashboards revealed that Technology, the Consumer segment, and the West region are top sales drivers, while five sub-categories contribute most of the profit. These insights provide a solid foundation for data-driven resource allocation and strategic decision-making at Superstore.
 
----
 
-## How to Run This Project
-
-1. Clone this repository.
-2. Install required Python libraries: `pandas`, `matplotlib`
-3. Run the Jupyter Notebook or Python script to see data exploration and validation.
-4. Open the Power BI file to view the interactive dashboard.
-
-## Author
-
-[Your Name] – [Your LinkedIn/GitHub Profile Link]
-
----
