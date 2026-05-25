@@ -138,7 +138,7 @@ This involved reviewing the dimensions of the dataset to understand its size and
 
 The missing value check confirmed that there are no null or missing values in any of the 21 columns within the dataset. This indicates the data is complete and requires no imputation or removal of rows due to missing entries, allowing the analysis to proceed without data cleaning for nulls.
 
-![Missing Values Check](INSERT_MISSING_VALUES_IMAGE_HERE)
+![Missing Values Check](https://github.com/Emma-the-Analyst/Superstore-Sales-Profitability-Analysis/blob/main/IMAGES/MISSING%20VALUE%20CHECKS.png?raw=true)
 
 **Checking for duplicates**
 
