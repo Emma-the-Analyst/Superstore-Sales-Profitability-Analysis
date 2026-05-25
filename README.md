@@ -1,6 +1,6 @@
 # Superstore Sales & Profitability Analysis
 
-![Dashboard Preview](INSERT_DASHBOARD_IMAGE_HERE)
+![Dashboard Preview](DASHBOARD.png)
 
 ## Table of Contents
 
