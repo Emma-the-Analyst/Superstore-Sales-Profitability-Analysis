@@ -165,6 +165,7 @@ The data type check confirmed that all columns have appropriate data types forma
 #### Visualisation
 
 Power BI was used to create interactive dashboards and charts that effectively communicate key insights from the data. Power BI allowed me to explore relationships between variables such as Sales, Quantity, and Profit across different categories, regions, and segments.
+
 ![Superstore Sales Performance Dashboard](https://github.com/Emma-the-Analyst/Superstore-Sales-Profitability-Analysis/blob/main/IMAGES/DASHBOARD.png) 
 
 ### IV. Analysis
