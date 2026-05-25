@@ -126,7 +126,7 @@ The dataset was loaded into Python pandas dataframe for exploration of data cont
 
 The dataset was loaded into a pandas dataframe. The first five rows was displayed, allowing for an initial visual inspection of the data structure, column names, and sample values to confirm successful loading.
 
-![Dataset Loaded](INSERT_DATASET_LOADED_IMAGE_HERE)
+![Dataset Loaded](https://github.com/Emma-the-Analyst/Superstore-Sales-Profitability-Analysis/blob/main/IMAGES/DATA%20LOADING.png?raw=true)
 
 **Rows and columns check**
 
