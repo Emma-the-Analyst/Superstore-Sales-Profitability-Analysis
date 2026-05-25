@@ -182,7 +182,7 @@ Findings were documented from the Power BI visualization using Excel to provide 
 
 **1. What is the top performing product category by sales?**
 
-![Top Performing Product Category by Sales](INSERT_CATEGORY_SALES_IMAGE_HERE)
+![Top Performing Product Category by Sales](https://github.com/Emma-the-Analyst/Superstore-Sales-Profitability-Analysis/blob/main/IMAGES/EXCEL%20SALES%20BY%20CATEGORY.png?raw=true)
 
 **Discovery:**
 - Total sales across all three categories reached approximately $2.30 million.
