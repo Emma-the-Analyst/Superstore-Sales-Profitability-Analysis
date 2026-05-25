@@ -108,7 +108,7 @@ A dashboard was designed in a wireframe and further modified to prototype using 
 
 #### Wireframe
 
-![Sales Dashboard Wireframe](INSERT_WIREFRAME_IMAGE_HERE)
+![Sales Dashboard Wireframe](https://github.com/Emma-the-Analyst/Superstore-Sales-Profitability-Analysis/blob/main/IMAGES/DASHBOARD%20WIREFRAME.png?raw=true)
 
 #### Prototype
 
