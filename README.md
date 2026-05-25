@@ -144,7 +144,7 @@ The missing value check confirmed that there are no null or missing values in an
 
 The duplicate check revealed that there are zero duplicate rows in the dataset. This confirms that every row is unique, eliminating the need for duplicate removal and ensuring the integrity of the analysis.
 
-![Duplicate Check](INSERT_DUPLICATE_CHECK_IMAGE_HERE)
+![Duplicate Check](https://github.com/Emma-the-Analyst/Superstore-Sales-Profitability-Analysis/blob/main/IMAGES/DUPLICATE%20CHECK.png?raw=true)
 
 **Outliers check**
 
