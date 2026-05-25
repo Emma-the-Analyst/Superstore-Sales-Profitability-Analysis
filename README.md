@@ -164,7 +164,7 @@ Profit Outlier
 
 The data type check confirmed that all columns have appropriate data types formats for analysis. Numerical columns such as Sales, Quantity, and Profit are correctly formatted as float64 or int64, while categorical columns like Category, Segment, and Region are stored as object type, requiring no immediate conversion.
 
-![Data Types Check](INSERT_DATA_TYPES_IMAGE_HERE)
+![Data Types Check](https://github.com/Emma-the-Analyst/Superstore-Sales-Profitability-Analysis/blob/main/IMAGES/DATA%20TYPE%20CHECKS.png?raw=true)
 
 #### Visualisation
 
