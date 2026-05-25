@@ -1,4 +1,4 @@
-# <center/>Superstore Sales & Profitability Analysis>
+# <center>Superstore Sales & Profitability Analysis</center>
 
 ## Table of Contents
 
