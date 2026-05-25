@@ -231,7 +231,7 @@ Findings were documented from the Power BI visualization using Excel to provide 
 
 The documented findings from the visualization were verified using Python. All the results tallied with the documented findings from the visualization.
 
-![Validation - Category Sales]()
+![Validation - Category Sales](https://github.com/Emma-the-Analyst/Superstore-Sales-Profitability-Analysis/blob/main/IMAGES/validating%20profit%20by%20category.png?raw=true)
 
 ![Validation - Top 5 Sub-Category Profit](INSERT_VALIDATION_SUBCATEGORY_IMAGE_HERE) 
 
