@@ -206,7 +206,7 @@ Findings were documented from the Power BI visualization using Excel to provide 
 
 **3. What are the top performing region by sales?**
 
-![Top Performing Region by Sales](INSERT_REGION_SALES_IMAGE_HERE)
+![Top Performing Region by Sales](https://github.com/Emma-the-Analyst/Superstore-Sales-Profitability-Analysis/blob/main/IMAGES/EXCEL%20SALES%20BY%20REGION.png?raw=true)
 
 **Discovery:**
 - Total sales across all four regions reached approximately $2.30 million.
