@@ -24,7 +24,7 @@
   - [IV. Analysis](#iv-analysis)
     - [Findings Documentation and Discovery](#findings-documentation-and-discovery)
     - [Findings Validation](#findings-validation)
-  - [V. Recommendations](#v-recommendations)
+- [5. Recommendations](#5-recommendations)
 - [6. Future Research](#6-future-research)
 - [7. Conclusion](#7-conclusion)
 
@@ -235,7 +235,7 @@ The documented findings from the visualization were verified using Python. All t
 
 ![Validation - Customer Segment Sales](INSERT_VALIDATION_SEGMENT_IMAGE_HERE)
 
-### V. Recommendations
+### 5. Recommendations
 
 The following are recommendations and potential course of action deduced from discovery:
 
